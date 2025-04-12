@@ -72,4 +72,16 @@ Campus Bridge revolutionizes the student experience by merging curriculum-based 
 
 
 
+PROTOTYPE 
+
+
+
+![Screenshot 2025-04-13 014448](https://github.com/user-attachments/assets/ce657ef7-6293-47f4-96dc-52d458639ed4)
+![Screenshot 2025-04-13 014500](https://github.com/user-attachments/assets/f87775f5-6de3-4ffe-b624-4982adea1baa)
+![Screenshot 2025-04-13 014535](https://github.com/user-attachments/assets/eec7cb3f-1aad-41ce-b4a3-2f1948da4ceb)
+![Screenshot 2025-04-13 014558](https://github.com/user-attachments/assets/0079c18b-5335-42f9-98da-fba07c9c7a73)
+![Screenshot 2025-04-13 014623](https://github.com/user-attachments/assets/922c1f1f-47f0-4cd9-928e-87bbe984586d)
+
+
+
 
